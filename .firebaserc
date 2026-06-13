@@ -1,0 +1,13 @@
+{
+  "projects": {},
+  "targets": {
+    "virasat-24d4e": {
+      "hosting": {
+        "app": [
+          "heart-diseases-app"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

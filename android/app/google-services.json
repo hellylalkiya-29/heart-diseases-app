@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266485954806",
+    "project_id": "heart-diseases-app",
+    "storage_bucket": "heart-diseases-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266485954806:android:0c8f1f992b7a6e8e9214d7",
+        "android_client_info": {
+          "package_name": "com.example.heart_disease_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr70ZzutGmNjwqmm4yudbJcdLgMj_wM8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
